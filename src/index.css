@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+    --color-camel: #D48B50;
+    --color-lightCamel: #F9EFE3;
+}
