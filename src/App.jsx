@@ -1,8 +1,9 @@
-import Menu from "./components/Menu";
+
+import DashboardLayout from './components/DashboardLayout.jsx'
 
 export default function App() {
   return(
-    <Menu />
+    <DashboardLayout />
   )
 }
 
