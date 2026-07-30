@@ -3,7 +3,7 @@ import user from '../assets/user.png'
 
 export default function Navigation(){
     return(
-        <div className="shadow-lg w-full h-14 flex items-center px-3">
+        <div className="shadow w-full h-14 flex items-center px-3">
             <div className="flex flex-1 items-center gap-2">
                 <i className="fa-solid fa-bars"></i>
                 <form className="flex flex-1 max-w-md items-center bg-gray-200 px-2 py-1 rounded-lg">
