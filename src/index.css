@@ -3,4 +3,24 @@
 @theme {
     --color-camel: #D48B50;
     --color-lightCamel: #F9EFE3;
+
+    /* Total Sales */
+    --color-sales-bg: #F9EFE3;
+    --color-sales: #D48B50;
+
+    /* Orders */
+    --color-orders-bg: #EDF7F0;
+    --color-orders: #2E8B57;
+
+    /* Customers */
+    --color-customers-bg: #FDF9EF;
+    --color-customers: #C76A00;
+
+    /* Avg. Order Value */
+    --color-order-bg: #F5F2F9;
+    --color-order: #7C6ACF;
+
+    /* Total Profit */
+    --color-profit-bg: #F0F9F7;
+    --color-profit: #0F9D8A;
 }
